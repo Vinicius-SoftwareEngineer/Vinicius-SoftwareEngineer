@@ -1,22 +1,28 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqMndkZ294M3pibXB5dDU0bmU3OXpram1nZ3VqcXF2b3JmZXZlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGYV1mLWd5NFqf/giphy.gif" width="300" />
+  <a href="https://github.com/Vinicius-SoftwareEngineer">
+    <img src="https://komarev.com/ghpvc/?username=Vinicius-SoftwareEngineer&style=for-the-badge&color=blue" alt="Profile views" />
+  </a>
+  <img src="https://raw.githubusercontent.com/Vinicius-SoftwareEngineer/Vinicius-SoftwareEngineer/main/assets/welcome.gif" alt="Welcome GIF" width="auto" /> 
 </p>
 
 <h1 align="center">
   Olá 👋, eu sou o Vinicius
 </h1>
 <h3 align="center">
-  Um estudante de Engenharia de Software apaixonado por resolver problemas com tecnologia.
+  Um estudante de Engenharia de Software na UPE, apaixonado por Backend e sempre buscando novos desafios!
 </h3>
 
 <br>
 
+---
+
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Estou cursando **Engenharia de Software** na **Universidade de Pernambuco (UPE), Campus Garanhuns**.
-- 🌱 Atualmente estou aprendendo **Spring Boot** e aprofundando meus conhecimentos em **Java**.
-- 🚀 Tenho interesse principal em desenvolvimento **Backend**.
-- 🎯 Focado em construir projetos práticos e me tornar um desenvolvedor de software completo.
+- 🎓 Graduando em **Engenharia de Software** na **Universidade de Pernambuco (UPE), Campus Garanhuns**.
+- 🌱 Atualmente aprimorando minhas habilidades em **Java** e me aprofundando no ecossistema **Spring Boot**.
+- 🚀 Tenho um forte interesse em desenvolvimento **Backend**, APIs RESTful e arquiteturas de software eficientes.
+- 💡 Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e colaborar com equipes inovadoras.
+- 🌟 Apaixonado por aprender novas tecnologias e resolver problemas complexos com soluções criativas.
 
 <br>
 
@@ -24,39 +30,60 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais estou trabalhando (com foco em Backend):
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" alt="Gradle" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> 
-  </p>
-
-<br>
-
----
-
-## 📊 Minhas Estatísticas do GitHub
+Minhas principais ferramentas e tecnologias que utilizo e estou aprendendo:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-SoftwareEngineer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-SoftwareEngineer&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" alt="Gradle" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original-wordmark.svg" alt="Maven" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt="IntelliJ IDEA" width="60" height="60"/>
 </p>
 
 <br>
 
 ---
 
-## 📫 Como me encontrar
+## 📊 Minhas Atividades e Estatísticas no GitHub
+
+Explore minha jornada de código e as linguagens que mais utilizo:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-SoftwareEngineer&show_icons=true&theme=nord&include_all_commits=true&count_private=true&line_height=20" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-SoftwareEngineer&layout=compact&langs_count=8&theme=nord&line_height=20" alt="Top Languages" />
+</p>
+
+### Calendário de Contribuições
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinicius-SoftwareEngineer&theme=nord" alt="Contribution Calendar" />
+</p>
+
+<br>
+
+---
+
+## 📫 Como me Encontrar
+
+Vamos nos conectar e trocar ideias!
 
 <p align="left">
-  <a href="[link_do_seu_linkedin]" target="_blank">
+  <a href="https://www.linkedin.com/in/vinicius-rafael-76b610284" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:seu_email@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <a href="https://www.instagram.com/viniciusletos/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:seu_email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </p>
+
+<br>
