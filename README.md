@@ -55,7 +55,7 @@
 
 ---
 
-## 📈 Gráfico de Atividade Recente (Animado)
+## 📈 Gráfico de Atividade Recente
 
 
 <p align="center">
