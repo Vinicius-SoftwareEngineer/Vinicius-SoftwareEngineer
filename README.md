@@ -13,38 +13,42 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Estou cursando **Engenharia de Software** (talvez na [Nome da Universidade]?).
+- 🎓 Estou cursando **Engenharia de Software** na **Universidade de Pernambuco (UPE), Campus Garanhuns**.
 - 🌱 Atualmente estou aprendendo **Spring Boot** e aprofundando meus conhecimentos em **Java**.
+- 🚀 Tenho interesse principal em desenvolvimento **Backend**.
 - 🎯 Focado em construir projetos práticos e me tornar um desenvolvedor de software completo.
-- 💡 Tenho interesse em [Sua área de interesse, ex: Desenvolvimento Web, IA, DevOps].
-- 💬 Pergunte-me sobre [Assunto que você domina, ex: Java, POO, Git].
 
 <br>
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais estou trabalhando:
+Aqui estão algumas das tecnologias com as quais estou trabalhando (com foco em Backend):
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" alt="Gradle" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> 
+  </p>
 
 <br>
+
+---
 
 ## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-SoftwareEngineer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-SoftwareEngineer&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-SoftwareEngineer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-SoftwareEngineer&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 <br>
+
+---
 
 ## 📫 Como me encontrar
 
