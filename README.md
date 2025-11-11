@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius%21;Estudante+de+Engenharia+de+Software;Backend+%26+Frontend+Developer;Java+%7C+Spring+%7C+Node.js" alt="Animação de 'digitando' com o texto: Olá, eu sou o Vinicius!, Estudante de Engenharia de Software, Backend & Frontend Developer, Java | Spring | Node.js" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%C2%A0%2C+eu+sou+o+Vinicius%21;Estudante+de+Engenharia+de+Software;Backend+%26+Frontend+Developer;Java+%7C+Spring+%7C+Node.js" alt="Animação de 'digitando' com o texto: Olá, eu sou o Vinicius!, Estudante de Engenharia de Software, Backend & Frontend Developer, Java | Spring | Node.js" />
   </a>
 </p>
 
@@ -25,7 +25,6 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="60" height="60"/>
@@ -47,8 +46,7 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-SoftwareEngineer&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-SoftwareEngineer&layout=compact&langs_count=8&theme=nord"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinicius-SoftwareEngineer&theme=nord" alt="Cartão de Resumo do Perfil GitHub com estatísticas e calendário" />
 </p>
 
 <br>
@@ -69,7 +67,6 @@
 ---
 
 ## 📫 Como me Encontrar
-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vinicius-rafael-76b610284" target="_blank">
