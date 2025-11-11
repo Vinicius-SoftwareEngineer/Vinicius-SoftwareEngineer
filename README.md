@@ -25,7 +25,6 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Estas são as tecnologias com as quais eu realmente trabalho e estudo:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/>
@@ -46,7 +45,6 @@ Estas são as tecnologias com as quais eu realmente trabalho e estudo:
 
 ## 📊 Minhas Atividades e Estatísticas
 
-Estes são os gráficos que você pediu de volta.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-SoftwareEngineer&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -59,7 +57,6 @@ Estes são os gráficos que você pediu de volta.
 
 ## 📈 Gráfico de Atividade Recente (Animado)
 
-Este é o gráfico de atividade animado que substitui o "calendário".
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -73,7 +70,6 @@ Este é o gráfico de atividade animado que substitui o "calendário".
 
 ## 📫 Como me Encontrar
 
-Aqui está seu contato, como pedido.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vinicius-rafael-76b610284" target="_blank">
